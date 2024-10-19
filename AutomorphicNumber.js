@@ -18,3 +18,4 @@ if (sq % d === org) {
 } else {
     console.log("Not Automorphic"); // If the last digits don't match, it's not an Automorphic number
 }
+c
